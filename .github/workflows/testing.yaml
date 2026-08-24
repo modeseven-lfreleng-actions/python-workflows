@@ -68,3 +68,5 @@ jobs:
       make: true
       make_args: 'deps-nss env-github-actions'
       setup_script: '.github/scripts/setup-nss.sh'
+
+# simulated newly-added stale pin fix
